@@ -8,7 +8,6 @@
     ],
     "require": {},
     "minimum-stability": "dev",
-    "prefer-stable": true,
     "extra": {
         "branch-alias": {
             "dev-master": "master"
