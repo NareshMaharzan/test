@@ -1,0 +1,10 @@
+{
+    "name": "naresh/test",
+    "authors": [
+        {
+            "name": "Naresh Maharjan",
+            "email": "naresh.maharjan@cashrewards.com"
+        }
+    ],
+    "require": {}
+}
